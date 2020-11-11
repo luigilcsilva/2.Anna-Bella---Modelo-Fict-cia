@@ -1,4 +1,4 @@
-# 2.Anna-Bella---Modelo-Ficticia
+# Anna-Bella---Modelo-Ficticia
 **This project is a website built for a fictitious model using HTML and CSS.**
 
 **To see it working, just download the content and access the page index.html in any browser. The source code can be viewed in a source code editor of your preference.** 
